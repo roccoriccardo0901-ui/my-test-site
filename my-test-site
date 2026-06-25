@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="it">
-<p>Modifica effettuata il 25 giugno 2026.</p>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,7 +7,7 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>🚀 Funziona GitHub → Vercel!</h1>
+  <h1>🚀 Funziona GitHub ci sono riuscito → Vercel!</h1>
   <p>Se vedi questo sito online, il deploy è attivo.</p>
 </body>
 </html>
