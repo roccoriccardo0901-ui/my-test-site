@@ -3,6 +3,7 @@ my-test-site/
  └── style.css
 <!DOCTYPE html>
 <html lang="it">
+<p>Modifica effettuata il 25 giugno 2026.</p>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
