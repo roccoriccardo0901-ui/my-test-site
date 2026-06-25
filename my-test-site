@@ -1,0 +1,27 @@
+my-test-site/
+ ├── index.html
+ └── style.css
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Test Vercel Deploy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>🚀 Funziona GitHub → Vercel!</h1>
+  <p>Se vedi questo sito online, il deploy è attivo.</p>
+</body>
+</html>
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  background: #0f172a;
+  color: white;
+}
+
+h1 {
+  color: #38bdf8;
+}
